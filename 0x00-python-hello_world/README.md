@@ -1,2 +1,1 @@
-Learning Python
-Begining, project 1
+readme description
