@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-for chr in "abcdefghijklmnopqrstuvwxyz":
-    print('{}'.format(chr), end="")
+for i in range(ord('a'), ord('z') + 1):
+    print("{:s}".format(chr(i)), end="")
